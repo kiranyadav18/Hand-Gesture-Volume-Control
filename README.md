@@ -7,9 +7,6 @@ A Computer Vision project that allows users to control their Mac using hand gest
 - 🔊 Volume Control using Thumb & Index Finger
 - 👍 Thumbs Up → Maximum Volume
 - 👎 Thumbs Down → Mute
-- ▶️ Play / Pause Music
-- ⏭️ Next Track
-- ⏮️ Previous Track
 - 📊 Animated Volume Bar
 - 🎨 Professional UI
 - ⚡ Real-time Hand Tracking
@@ -44,11 +41,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
-## 📸 Demo
 
-Add your screenshot here.
-
-## 👨‍💻 Author
 
 **Kiran Yadav**
 
